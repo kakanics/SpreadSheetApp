@@ -11,6 +11,9 @@
 *.gch
 *.pch
 
+#custom Extension
+*.IDS
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
